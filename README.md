@@ -15,7 +15,7 @@ A modern web-based asset management system for Ho Chi Minh city University of Te
 
 ## 🖼️ Live Demo
 
-Check out the live demo here: [https://asset-management-system-git-main-kuabks-projects.vercel.app](https://asset-management-system-git-main-kuabks-projects.vercel.app)
+Check out the live demo here: [https://asset-management-system-xi.vercel.app](https://asset-management-system-xi.vercel.app)
 
 > ✅ Sample account:
 > - Username: `cuabachkhoa`
